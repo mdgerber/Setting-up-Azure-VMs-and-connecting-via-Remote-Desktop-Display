@@ -5,7 +5,7 @@
 </p>
 
 <h1>Creating and Connecting to Azure VMs</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+This tutorial outlines the creation of Virtual Machines within Azure and how to connect to them via Remote Desktop Display.<br />
 
 
 <h2>Video Demonstration</h2>
