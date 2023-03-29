@@ -1,4 +1,4 @@
-# Setting-up-Azure-VMs-and-Connecting-Via-Remote-Desktop-Display
+# 
 
 <p align="center">
 <img src="https://i.imgur.com/V6x2CBK.jpg" alt="Microsoft Active Directory Logo"/>
