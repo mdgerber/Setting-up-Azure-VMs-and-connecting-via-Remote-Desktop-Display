@@ -7,6 +7,10 @@
 <h1>Creating and Connecting to a Virtual Machine in Azure</h1>
 This tutorial outlines the creation and connection to of a Virtual Machine within Azure.<br />
 
+<h2>Video Demonstration</h2>
+
+- ### [YouTube: How to Deploy on-premises Active Directory within Azure Compute](https://www.youtube.com)
+
 
 
 
