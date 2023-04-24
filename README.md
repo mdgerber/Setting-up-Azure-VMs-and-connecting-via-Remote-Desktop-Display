@@ -4,7 +4,7 @@
 <img src="https://i.imgur.com/V6x2CBK.jpg" alt="Microsoft Active Directory Logo"/>
 </p>
 
-<h1>Creating and Connecting to a Virtual Machine in Azure</h1>
+<h1>Creating and Connecting to a Virtual Machine in Azure via Remote Desktop Display</h1>
 This tutorial outlines the creation and connection to of a Virtual Machine within Azure.<br />
 
 <h2>Video Demonstration</h2>
