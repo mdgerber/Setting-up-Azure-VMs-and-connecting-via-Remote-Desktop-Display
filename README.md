@@ -31,10 +31,11 @@ This video tutorial outlines the creation of and connection to an Azure Virtual 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
 - Step 1: Create Resource group
-- Step 2: Select VM CPU image and size
-- Step 3: Create/Deploy VM
-- Step 4: Obtain public IP address of created VM
-- Step 5: Open up Windows Remote Desktop Connection
-- Step 6: Input your VM's public IP address and log in using previously created username/password
-- Step 7: Connect to your Azure VM and start playing around!
+- Step 2: Create Virtual Machine
+- Step 3: Select VM CPU image and size
+- Step 4: Deploy Virtual Machine
+- Step 5: Obtain public IP address of created Virtual Machine
+- Step 6: Open up Windows Remote Desktop Connection
+- Step 7: Input your Virtual Machine's public IP address and log in using previously created username/password
+- Step 8: Connect to your Azure VM and start playing around!
 
