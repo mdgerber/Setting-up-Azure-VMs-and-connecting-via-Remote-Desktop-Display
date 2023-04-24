@@ -30,7 +30,7 @@ This video tutorial outlines the creation of and connection to an Azure Virtual 
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1: Create Resource groups
+- Step 1: Create Resource group
 - Step 2: Select VM CPU image and size
 - Step 3: Create/Deploy VM
 - Step 4: Obtain public IP address of created VM
