@@ -4,8 +4,8 @@
 <img src="https://i.imgur.com/V6x2CBK.jpg" alt="Microsoft Active Directory Logo"/>
 </p>
 
-<h1>Creating a Virtual Machine in Azure</h1>
-This tutorial outlines the creation of a Virtual Machine within Azure.<br />
+<h1>Creating and Connecting to a Virtual Machine in Azure</h1>
+This tutorial outlines the creation and connection to of a Virtual Machine within Azure.<br />
 
 
 
@@ -14,10 +14,10 @@ This tutorial outlines the creation of a Virtual Machine within Azure.<br />
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Active Directory Domain Services
-- PowerShell
+- Microsoft Azure 
+- Azure Virtual Machines
+- Remote Desktop Display (Remote Desktop Connection)
+
 
 <h2>Operating Systems Used </h2>
 
