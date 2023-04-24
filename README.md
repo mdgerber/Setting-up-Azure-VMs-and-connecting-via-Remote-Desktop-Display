@@ -5,7 +5,7 @@
 </p>
 
 <h1>Creating a Virtual Machine in Azure and Connecting Via Remote Desktop Display</h1>
-This tutorial outlines the creation of and connection to an Azure Virtual Machine via Remote Desktop Display.<br />
+This video tutorial outlines the creation of and connection to an Azure Virtual Machine via Remote Desktop Display.<br />
 
 <h2>Video Demonstration</h2>
 
