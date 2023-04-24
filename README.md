@@ -5,7 +5,7 @@
 </p>
 
 <h1>Creating a Virtual Machine in Azure</h1>
-This tutorial outlines the creation of Virtual Machines within Azure.<br />
+This tutorial outlines the creation of a Virtual Machine within Azure.<br />
 
 
 
